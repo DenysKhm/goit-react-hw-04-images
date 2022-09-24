@@ -1,4 +1,4 @@
-import Modal from '../Modal/Modal';
+import { Modal } from '../Modal/Modal';
 import React from 'react';
 import s from './ImageGallery.module.css';
 import PropTypes from 'prop-types';
